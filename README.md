@@ -8,3 +8,5 @@
   Step 3:-Add servlet resolver
 
   Step 4:-Home view created
+
+  Step 5:- Spring security setup
