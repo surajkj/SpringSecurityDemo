@@ -5,8 +5,12 @@
   
   Step 2:- Add Java Config files with view resolver
 
-  Step 3:-Add servlet resolver
+  Step 3:- Add servlet resolver
 
-  Step 4:-Home view created
+  Step 4:- Home view created
 
   Step 5:- Spring security setup
+
+  Step 6:- Create Custom Security
+
+  Setp 7:- Create custom login form
