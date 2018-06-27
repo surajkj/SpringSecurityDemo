@@ -5,4 +5,6 @@
   
   Step 2:- Add Java Config files with view resolver
 
-  Step 3:-
+  Step 3:-Add servlet resolver
+
+  
